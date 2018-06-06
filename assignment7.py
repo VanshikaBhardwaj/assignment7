@@ -1,6 +1,8 @@
 #1
+def calArea(r):
+    print("Area of sphere is:",4*22/7*r**2)
 r=float(input("Enter radius of sphere"))
-print("Area of sphere is:",4*22/7*r**2)
+calArea(r)
 
 #2
 def perfect(n):
